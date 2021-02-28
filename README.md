@@ -1,3 +1,3 @@
 # VanilaJS_Movi_App
 
-link to try
+link : https://devivasha.github.io/VanilaJS_Movi_App/
